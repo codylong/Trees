@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: paper11.aux
+The style file: apsrev4-1.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: paper11Notes.bib
+Database file #2: refs.bib
+control{REVTEX41Control}, control.key{N/A}, control.author{N/A}, control.editor{N/A}, control.title{N/A}, control.pages{N/A}, control.year{N/A}, control.eprint{N/A}, 
+control{apsrev41Control}, control.key{N/A}, control.author{08}, control.editor{1}, control.title{}, control.pages{0}, control.year{1}, control.eprint{N/A}, 
+Warning--jnrlst (dependency: not reversed) set 1
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+merlin.mbs apsrev4-1.bst 2010-07-25 4.21a (PWD, AO, DPC) hacked
+Control: key (0) 
+Control: author (8) initials jnrlst
+Control: editor formatted (1) identically to author
+Control: production of article title (-1) disabled
+Control: page (0) single
+Control: year (1) truncated
+Control: production of eprint (0) enabled
+Warning--missing journal in Morrison:2014era
+Warning--missing journal in Taylor:2015isa
+Warning--missing journal in Soni:2016yes
+Warning--missing journal in daRocha:2017cxu
+Warning--missing journal in Acharya:2017szw
+Warning--missing journal in Soni:2017nlm
+Warning--missing publisher in Hayakawa
+Warning--empty year in Morrisonunp
+You've used 37 entries,
+            5847 wiz_defined-function locations,
+            1891 strings with 21243 characters,
+and the built_in function-call counts, 32373 in all, are:
+= -- 2201
+> -- 661
+< -- 229
++ -- 221
+- -- 161
+* -- 4968
+:= -- 3266
+add.period$ -- 35
+call.type$ -- 37
+change.case$ -- 143
+chr.to.int$ -- 49
+cite$ -- 45
+duplicate$ -- 3155
+empty$ -- 2417
+format.name$ -- 409
+if$ -- 6259
+int.to.chr$ -- 3
+int.to.str$ -- 44
+missing$ -- 397
+newline$ -- 188
+num.names$ -- 105
+pop$ -- 1358
+preamble$ -- 1
+purify$ -- 174
+quote$ -- 0
+skip$ -- 1161
+stack$ -- 0
+substring$ -- 758
+swap$ -- 2884
+text.length$ -- 72
+text.prefix$ -- 0
+top$ -- 10
+type$ -- 466
+warning$ -- 9
+while$ -- 107
+width$ -- 0
+write$ -- 380
+(There were 9 warnings)

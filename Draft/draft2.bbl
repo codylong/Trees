@@ -1,0 +1,41 @@
+\begin{thebibliography}{4}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname bibnamefont\endcsname\relax
+  \def\bibnamefont#1{#1}\fi
+\expandafter\ifx\csname bibfnamefont\endcsname\relax
+  \def\bibfnamefont#1{#1}\fi
+\expandafter\ifx\csname citenamefont\endcsname\relax
+  \def\citenamefont#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{\citenamefont{Nakayama}(1988)}]{Nakayama}
+\bibinfo{author}{\bibfnamefont{N.}~\bibnamefont{Nakayama}}, in
+  \emph{\bibinfo{booktitle}{Algebraic geometry and commutative algebra, {V}ol.\
+  {II}}} (\bibinfo{publisher}{Kinokuniya, Tokyo}, \bibinfo{year}{1988}), pp.
+  \bibinfo{pages}{405--431}.
+
+\bibitem[{\citenamefont{Elkik}(1978)}]{DefRatSings}
+\bibinfo{author}{\bibfnamefont{R.}~\bibnamefont{Elkik}},
+  \bibinfo{journal}{Invent. Math.} \textbf{\bibinfo{volume}{47}},
+  \bibinfo{pages}{139} (\bibinfo{year}{1978}), ISSN \bibinfo{issn}{0020-9910},
+  \urlprefix\url{http://dx.doi.org/10.1007/BF01578068}.
+
+\bibitem[{\citenamefont{Hayakawa}(1994)}]{Hayakawa}
+\bibinfo{author}{\bibfnamefont{Y.}~\bibnamefont{Hayakawa}},
+  \emph{\bibinfo{title}{Degeneration of {C}alabi-{Y}au manifold with
+  {W}eil-{P}etersson metric}} (\bibinfo{publisher}{ProQuest LLC, Ann Arbor,
+  MI}, \bibinfo{year}{1994}), \bibinfo{note}{thesis (Ph.D.)--University of
+  Maryland, College Park},
+  \urlprefix\url{http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:9526336}.
+
+\bibitem[{\citenamefont{Wang}(1997)}]{Wang}
+\bibinfo{author}{\bibfnamefont{C.-L.} \bibnamefont{Wang}},
+  \bibinfo{journal}{Math. Res. Lett.} \textbf{\bibinfo{volume}{4}},
+  \bibinfo{pages}{157} (\bibinfo{year}{1997}), ISSN \bibinfo{issn}{1073-2780},
+  \urlprefix\url{http://dx.doi.org/10.4310/MRL.1997.v4.n1.a14}.
+
+\end{thebibliography}
